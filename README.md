@@ -5511,5 +5511,15 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/Shorya-Singh-Rajawat">
+                    <img src="https://avatars.githubusercontent.com/u/158333761?v=4" width="100px;"
+                        alt="Shorya Singh Rajawat" />
+                    <br />
+                    <sub>
+                        <b>Shorya Singh Rajawat</b>
+                    </sub>
+                </a>
+            </td>
     </tbody>
 </table>
